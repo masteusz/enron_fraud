@@ -1,2 +1,3 @@
-# enron_fraud
-Udacity project
+# Investigating Enron E-mails
+
+Mateusz Stankiewicz
